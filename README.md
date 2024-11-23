@@ -1,6 +1,6 @@
-# BiDirCon (Bidirectional Communication): ESP32 Google Sheet Trigger
+#ESP Transponder: ESP32 Google Sheet Trigger
 
-**ButtonSync** is an ESP32 project that demonstrates real-time integration between a physical button and Google Sheets. Press a button to instantly send a signal to a Google Sheet and receive a response to perform an action like blinking an LED. It's a fun and practical IoT project that shows how to interface hardware with cloud services.
+**ESP Transponder** is an ESP32 project that demonstrates real-time integration between a physical button and Google Sheets. Press a button to instantly send a signal to a Google Sheet and receive a response to perform an action like blinking an LED. It's a fun and practical IoT project that shows how to interface hardware with cloud services.
 
 ## Features
 - **Real-time Button Sync:** Send data to a Google Sheet with minimal delay when the button is pressed.
