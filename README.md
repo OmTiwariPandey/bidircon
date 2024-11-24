@@ -155,7 +155,7 @@ Ensure the `BiconOled.ino` file is located in the root of the repository.
 ## Usage
 
 1. **Button Press**:
-   - Press the button to trigger a "write" action to the Google Sheet (`A1` updated to `1`).
+   - Press and hold the button for 5 to 10 seconds to trigger a "write" action to the Google Sheet (`A1` updated to `1`).
 2. **Google Sheet Response**:
    - The ESP32 periodically checks the sheet for updates.
    - If the sheet value is `1`, the LED blinks, and the value resets to `0`.
