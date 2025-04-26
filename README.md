@@ -1,6 +1,6 @@
 # BiconOled: ESP32 Google Sheets Transponder
 
-**BiconOled** is an IoT project that integrates an ESP32 microcontroller with Google Sheets. It allows real-time communication between a button press and a Google Sheet, enabling dynamic data updates and actions such as blinking an LED based on sheet values.
+**BiconOled** is an IoT project made by @OmTiwariPandey integrates an ESP32 microcontroller with Google Sheets. It allows real-time communication between a button press and a Google Sheet, enabling dynamic data updates and actions such as blinking an LED based on sheet values.
 
 This project is an excellent introduction to combining hardware, cloud services, and simple scripts for practical IoT applications.
 
